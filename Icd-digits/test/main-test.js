@@ -8,16 +8,6 @@ describe('getDigit()', function() {
   });
 });
 
-// describe('stringDigits()',function(){
-//       it('get stringDigits',function(){
-//           var stringDigits = stringDigits();
-//           expectStringDigits = []
-//
-//       });
-//
-//
-// });
-
 describe('stringTransform()',function(){
     var digits = [2,0];
     var allStringDigits = [{digit:0,string:['._.','|.|','|_|']},
