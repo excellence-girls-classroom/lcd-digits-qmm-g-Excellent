@@ -44,7 +44,7 @@ function isExist(element,allStringDigits,stringDigits){
     
 }
 
-function printStringDigits(stringDigits){
+function buildStringDigits(stringDigits){
     var tempArray = [];
    for(var i = 0; i < 3; i++){
      print(stringDigits,tempArray,i);
@@ -74,7 +74,7 @@ function IcdDigits(inputs){
     var digits = getDigit(inputs);
     var allStringDigits = wholeStringDigits();
     var stringDigits = digitsTransform(digits,allStringDigits);
-    var tempArray =  printStringDigits(stringDigits);
+    var tempArray =  buildStringDigits(stringDigits);
     var string = toString(tempArray);
     console.log(string);
 }

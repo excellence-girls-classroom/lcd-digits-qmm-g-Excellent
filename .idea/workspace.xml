@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d1885c-3338-4d13-a568-97efd50c5be2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Icd-digits/main/main.js" afterPath="$PROJECT_DIR$/Icd-digits/main/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Icd-digits/test/main-test.js" afterPath="$PROJECT_DIR$/Icd-digits/test/main-test.js" />
     </list>
     <ignored path="lcd-digits-qmm-g-Excellent.iws" />
@@ -39,8 +40,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Icd-digits/main/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="380">
+              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -50,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/Icd-digits/test/main-test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -198,12 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1461229394284</updated>
       <workItem from="1461229395736" duration="10416000" />
-      <workItem from="1461307909690" duration="16000" />
+      <workItem from="1461307909690" duration="1263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10432000" />
+    <option name="totallyTimeSpent" value="11679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -285,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Icd-digits/main/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="380">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -294,7 +295,7 @@
     <entry file="file://$PROJECT_DIR$/Icd-digits/test/main-test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
           <folding />
         </state>
       </provider>
